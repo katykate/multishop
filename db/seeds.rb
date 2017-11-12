@@ -11,3 +11,4 @@ Product.create(image_url: 'scarf3.jpg', name: "Scarf amazing", description: "I a
 Product.create(image_url: 'scarf1.jpg', name: "Scarf fab", description: "I also created this product without using the HTML form!", price: "$55")
 Product.create(image_url: 'scarf5.jpg', name: "Scarf lux", description: "I also created this product without using the HTML form!", price: "$25")
 Product.create(image_url: 'scarf6.jpg', name: "Scarf unique", description: "I also created this product without using the HTML form!", price: "$15")
+Product.create(image_url: 'scarf5.jpg', name: "Scarf lux", description: "I also created this product without using the HTML form!", price: "$25")

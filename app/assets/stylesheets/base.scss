@@ -1,0 +1,68 @@
+@import "bootstrap";
+@import 'products';
+@import 'navbar';
+
+#back_button {
+  margin-top: 1%;
+}
+
+.container {
+  margin-bottom: 30px;
+}
+ body {
+  font-family: 'Questrial', sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  color: grey;
+  font-size: 2em;
+}
+
+h1,
+h2,
+#show {
+  text-align: center;
+}
+
+h3 {
+  color: rgba(57, 156, 204, 0.8);
+}
+
+h1,
+h2,
+h3 {
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+p {
+  font-size: 1em;
+}
+
+a {
+  font-size: 1.1em;
+}
+
+footer {
+  position: fixed;
+  bottom: 0px;
+}
+
+#productmain {
+  margin-bottom: 100px;
+}
+
+.butmain button {
+  margin: 30px;
+  height: 50px;
+}
+
+.butmain {
+  margin-bottom: 30px;
+}
+
+.pagination {
+  display: block;  
+}
+
